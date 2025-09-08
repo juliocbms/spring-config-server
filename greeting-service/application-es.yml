@@ -12,4 +12,4 @@ management:
       show-details: ALWAYS
 greeting-service:
   greeting: "ola"
-  default-value: " que pasa"
+  default-value: " que pasa tonto bobo"
