@@ -11,5 +11,5 @@ management:
     health:
       show-details: ALWAYS
 greeting-service:
-  greeting: "ola"
+  greeting: "ola meu brazuca"
   default-value: " que pasa tonto bobo"
